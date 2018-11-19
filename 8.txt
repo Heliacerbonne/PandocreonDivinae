@@ -1,0 +1,13 @@
+Les cartes Apocalypse
+
+
+Lorsqu'un joueur pose une carte Apocalypse, un bouleversement divin a lieu, qui interrompt la partie. Tous les joueurs additionnent alors le nombre de Croyants qu'ils possèdent (une carte de Croyants pouvant représenter plusieurs Croyants). Cela correspond aux points de Prière, la puissance reçue par la Divinité. Deux cas de figure se présentent alors :
+
+	- 4 joueurs ou plus : le joueur ayant la plus faible puissance de Prière est éliminé de la partie. Si plusieurs joueurs sont les derniers à égalité, la carte Apocalypse est défaussée sans effet.
+	- 2 ou 3 joueurs : le joueur ayant la plus forte puissance de Prière gagne la partie. Si plusieurs joueurs sont premiers à égalité, la carte Apocalypse est défaussée sans effet.
+
+Il est interdit de jouer une carte Apocalypse durant le premier tour de la partie, ainsi que durant le tour qui suit une Apocalypse.
+
+Après une Apocalypse, et si la partie n'est pas terminée, le joueur qui a posé la carte commence un nouveau tour de jeu. Les cazrtes présentes sur la table ne sont pas défaussées, à l'exception des Guides Spirituels du joueur qui s'est fait éliminer (les Croyants qui y étaient attachés reviennent au centre de la table).
+
+De la même manière que pour les cartes Deus Ex, il existe des Apocalypse avec Origine (Jour, Nuit ou Nénant) qui coûtent des points d'Action pour être posées, ainsi que des Apocalypses sans Origine, qui peuvent être posées à tout moment sans rien coûter.

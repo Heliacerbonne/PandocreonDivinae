@@ -1,0 +1,8 @@
+Cartes d'Action
+
+
+On distingue 4 types de cartes d'Action différents : les cartes de Croyants, les Guides Spirituels, les Deus Ex et les Apocalypses.
+
+Pour chaque carte d'Action posée, il en coûte 1 point d'Action de même Origine (Jour, Nuit ou Néant) ; seule exception, les cartes d'Action d'Origine Néant qui peuvent être posées en échange de 2 points d'Action d'Origine Jour ou Nuit.
+
+Il existe des cartes d'Action sans Origine, qui se jouent sans coûter de point d'Action, et peuvent même être posées pendant la phase de jeu d'un autre joueur.

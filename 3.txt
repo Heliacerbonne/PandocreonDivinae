@@ -1,0 +1,22 @@
+Déroulement d'un tour de jeu
+
+
+Chaque tour de jeu commence par le lancement du dé de Cosmogonie pour connaître la manière dont va être influencé ce tour. Le résultaét du jet de dé va donner aux joueurs des points d'Action :
+
+	- face Jour :	donne 2 points Jour aux Divinités d'Origine Jour
+			donne 1 point Jour aux Divinités d'Origine Aube
+	- face Nuit :	donne 2 points Nuit aux Divinités d'Origine Nuit
+			donne 1 point Nuit aux divinités d'origine Crépuscule
+	- face Néant : donne 1 point Néant aux Divinités Aube et Crépuscule
+
+Les points d'Action ont une Origine (Jour, Nuit ou Néant), qui va décider des cartes d'Action que la Divinité pourra jouer.
+
+Chaque joueur peut ensuite, à son tour de jeu :
+
+	1. se défausser de tout ou partie de ses cartes
+	2. compléter sa main à 7 cartes
+	3. jouer les deux phases suivantes tant que ses cartes le lui permettent
+			- utiliser les cartes d'Action qu'il a en main
+			- sacrifier une carte Croyants ou Guide Spirituel
+
+Le joueur qui a lancé le dé de Cosmogonie est celui qui aura commencé à jouer sur ce tour. AU tour suivant, c'est le deuxième joueur qui lance le dé et qui commence à jouer ; le premier joueur sera donc celui qui jouera en dernier ce tour-ci, et ainsi de suite.

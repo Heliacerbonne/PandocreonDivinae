@@ -1,0 +1,6 @@
+Début de partie
+
+
+Chaque joueur pioche une Divinite au hasard et la place devant lui.
+
+7 cartes d'Action sont distrbuées à tous les joueurs.

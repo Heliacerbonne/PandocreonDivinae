@@ -1,0 +1,8 @@
+Les Croyants
+
+
+Les cartes de Croyants sont posées par les joueurs au centre de la table. Elles sont communes à tous.
+
+Ce sont les Croyants qui apportent leur puissance aux Divinité. Les cartes représentent un nombre de Croyants différent (donc toutes les cartes de Croyants n'auront pas la même importance lors du calcul final des points de Prière).
+
+Les Croyants possèdent des capacités spéciales qui permettent de faire certaines actions en contrepartie d'un sacrifice (la carte est alors défaussée). Une carte de Croyants ne peut pas être sacrifiée lorsqu'elle est encore au centre de la table.

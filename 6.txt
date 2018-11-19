@@ -1,0 +1,11 @@
+Les Guides Spirituels
+
+
+Lorsque les Croyants sont au milieu de la table, ils ne rapportent aucun point de Prière aux Divinités. Pour que celles-ci récupèrent les prières des Croyants, il faut qu'elles utilisent des Guides Spirituels.
+
+Chaque Guide Spirituel peut ramener avec lui un groupe de plusieurs cartes de Croyants (le nombre est inscrit sur la carte) auprès d'une Divinité. Elle récupère alors les prières des Croyants (le nombre est inscrit sur la carte) auprès d'une Divinité. Elle récupère alors les prières des Croyants en question.
+
+Un Guide Spirituel peut très bien guider des Croyants ayant une Cosmogonie (Jour/Nuit/Néant) différente de la sienne. Mais il ne peut guider que des Croyants ayant au moins un Dogme (Nature, Humain, Symboles, CHaos, Mystique) en commun avec lui. Un joueur ne peut pas utiliser un Guide Spirituel pour récupérer un carte de Croyants qu'il vient de créer ; c'est à partir de la phase de jeu du joueur suivant que la carte de Croyants sera utilisable.
+Les Guides Spirituels possèdent des capacités spéciales en échange de sacrifices (il est alors défaussé, et les Croyants qui y étaient attachés reviennent au centre de la table).
+
+Un Guide Spirituel n'ayant plus de Croyants rattachés à lui (à la suite de sacrifices par exemple) est défaussé. Sa capacité spéciale n'est pas jouée.

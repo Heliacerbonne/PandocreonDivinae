@@ -1,0 +1,10 @@
+Présentation du jeu
+
+
+Vous incarnez des Divinités, qui sont caractérisées par leur Origine (Jour, Nuit, Aube ou Crépuscule) qui exprime leur filiation, et leurs Dogmes (3 parmi : Nature, Humain, Symboles, Mystique, Chaos) qui définissent leurs croyances. Chaque divinité possèdent une capacité spéciale, un pouvoir utilisable une unique fois pendant la partie.
+
+Le but du jeu et d'éliminer les autres Divinités et de prendre la place du Haut Dieu en récupérant les prières d'un maximum de Croyants.
+
+Pour cela, les joueurs vont créer des Croyants, qui seront mis en commun au milieu de la table. Par la suite, les joueurs pourront créer des Guides Spirituels, dont le rôle est d'amener à une Divinité un nombre variable de cartes de Croyants. A cela s'ajoutent des cartes Deus Ex qui modifient les rapports de force en cours de partie.
+
+Lorsqu'une carte Apocalypse est posée, un joueur est éliminé (4 joueurs ou plus) ou un joueur gagne la partie (2 ou 3 joueurs) en fonctin des points de Prière apportés par les Croyants de chaque Divinité.
